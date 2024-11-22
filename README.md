@@ -2,7 +2,7 @@
 
 A machine learning-powered recipe recommendation system that suggests personalized recipes based on available ingredients. The system uses Support Vector Machines (SVM) and Naive Bayes algorithms to provide accurate recipe suggestions along with detailed cooking instructions.
 
-![Recipe Wordcloud](recipe_wordcloud.png)
+![Recipe Wordcloud](Word-Cloud.jpg.png)
 
 ## ✨ Features
 
